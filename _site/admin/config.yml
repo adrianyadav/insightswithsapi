@@ -3,6 +3,8 @@ backend:
   branch: master # Branch to update (master by default)
 
 media_folder: "img/uploads" # Folder where user uploaded files should go
+publish_mode: editorial_workflow
+
 
 collections: # A list of collections the CMS should be able to edit
   - name: "settings"
@@ -17,13 +19,13 @@ collections: # A list of collections the CMS should be able to edit
               label: "Website title",
               name: "title",
               widget: "string",
-              default: "Megha Mehta",
+              default: "Sapna Yadav",
             }
           - {
               label: "Website description",
               name: "description",
               widget: "string",
-              default: "Megha Mehta",
+              default: "Sapna Yadav",
             }
           - { label: "Author name", name: "authorName", widget: "string" }
           - { label: "Author image", name: "authorImage", widget: "image" }
@@ -38,16 +40,19 @@ collections: # A list of collections the CMS should be able to edit
               label: "Instagram profile url",
               name: "instagramProfileUrl",
               widget: "string",
+              required: false,
             }
           - {
               label: "Instagram user id",
               name: "instagramUserId",
               widget: "string",
+              required: false,
             }
           - {
               label: "Instagram access token",
               name: "instagramAccessToken",
               widget: "string",
+              required: false,
             }
           - {
               label: "Google analytics id",
@@ -80,13 +85,6 @@ collections: # A list of collections the CMS should be able to edit
           required: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }
-    meta: # Meta data fields. Just like fields, but without any preview element
-      - {
-          label: "Publish Date",
-          name: "date",
-          widget: "datetime",
-          format: "YYYY-MM-DD hh:mm:ss",
-        }
   - name: "pages"
     label: "Pages"
     editor:
