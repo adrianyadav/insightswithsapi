@@ -3,7 +3,7 @@ layout: post
 title: Go with the Flow!
 image: /img/uploads/photo-1521995897-1fbc7512c090-1-.jpg
 tags: Lifelessons
-carousel: true
+carousel: false
 ---
 > Have you ever Floated in water? It is the most wonderful feeling you will ever get. You feel free!!! You do not have a worry for sometime. You leave all your control and just relax in the moment. The water carries all your weight. For those brief moments you close your eyes and you can be in your own Paradise, someone may fancy a beach house, someone else may want a cottage by the mountain. Each person is unique and different.
 >
