@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A lesson from "String of Tears" plant!  19/6/2022
-image: /img/uploads/string-of-tears-both.jpg
+image: /img/uploads/string-of-pearls-canva.jpg
 tags: Motivation# when you are down# Part of whole# Source Energy
 carousel: true
 ---
