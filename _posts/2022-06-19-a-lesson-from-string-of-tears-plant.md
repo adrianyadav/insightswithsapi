@@ -2,7 +2,7 @@
 layout: post
 title: A lesson from "String of Tears" plant!  19/6/2022
 image: /img/uploads/string-of-pearls-canva.jpg
-tags: Motivation# when you are down# Part of whole# Source Energy
+tags: Motivation when you are down Part of whole Source Energy
 carousel: true
 ---
 One weekend I was very sad. I had an argument at home and it gave me a feeling of being of no value and I felt like nobody cared. I felt like my work in this world is done. Nothing I did, would cheer me up. Somebody had said something to me and I had taken it to heart. It would not leave me, this negative though!. The next morning when I was moving my string of Tears plant from the table to wipe the table, one small part of it  got detached from the main plant, because it is so delicate. 
