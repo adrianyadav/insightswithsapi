@@ -3,6 +3,7 @@ layout: post
 title: Leaps in Consciousness
 image: /img/uploads/jr-korpa-zcusa67rlem-unsplash.jpg
 tags: NDE,Spiritually transformative experiences. Image Photo by Jr Korpa on Unsplash
+carousel: true
 ---
 Remembering some stand out moments of my childhood, there are some incidents which stand out. Early memories are faint but they exist strongly. One of them is of my Maternal home. 
 
