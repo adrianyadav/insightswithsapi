@@ -2,7 +2,7 @@
 layout: post
 title: The Courage to be Spiritual!
 image: /img/uploads/20230406_112705.jpg
-tags: Awakening, Spirit, Spiritual, Meditation, Oneness
+tags: ""
 ---
 In my heart I knew from when I was a little girl, that there had to be a greater power. When I asked the adults around me, nobody had a definite answer.  I did not believe that a school should have canes, the teachers had to be rude, we had to keep studying. In this world Kindness was not valued, only mind based education was.
 
